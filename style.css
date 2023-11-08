@@ -1,0 +1,21 @@
+li:nth-child(even) {
+  background-color: gray;
+}
+
+li:nth-child(odd) {
+  background-color: rgb(80, 76, 76);
+}
+
+p::first-letter {
+  font-size: 32px;
+}
+
+p::first-line {
+  color: orange;
+}
+
+td {
+  background-color: green;
+  color: #000;
+}
+
